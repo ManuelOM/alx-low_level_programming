@@ -1,0 +1,28 @@
+#include <stdio.h>
+/**
+ * main - Entry point
+ * 
+ * Return: ALways 0 (Sucess/correct)
+ */
+int main(void)
+
+{
+char lower_case;
+char upper_case;
+
+for (upper_case = 'A'; upper_case++)
+{
+Putchar(upper_case);
+}
+
+for (lower_case = 'a'; lower_case++)
+{
+putchar(lower_case);
+}
+
+
+putchar('\n');
+
+return (0);
+
+}
