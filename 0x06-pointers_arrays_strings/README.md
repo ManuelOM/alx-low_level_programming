@@ -1,1 +1,1 @@
-my readme file
+My 0x06 Pointers, Arrays and String task
